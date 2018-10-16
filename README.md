@@ -1,6 +1,3 @@
-echo "# DontTouchThisSon" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/CherniTractorist/DontTouchThisSon.git
-git push -u origin master
+Мануйлов Максим
+4 группа
+ПОИТ
